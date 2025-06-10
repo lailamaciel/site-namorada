@@ -26,7 +26,7 @@ Feito para dizer, de forma simples: **eu te amo**.
 
 Você pode acessar o site clicando no link abaixo:
 
-🔗 **[Clique aqui para ver a surpresa](https://seuusuario.github.io/site-namorada)**  
+🔗 **[Clique aqui para ver a surpresa](https://lailamaciel.github.io/site-namorada)**  
 > *Substitua o link pelo endereço do GitHub Pages depois que publicar*
 
 ---
