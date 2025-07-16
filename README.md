@@ -1,33 +1,32 @@
-# 🌹 Site Romântico - Para o Amor da Minha Vida 💌
+# 🌹 Romantic Website – For the Love of My Life 💌
 
-Este site foi feito com muito carinho para a pessoa mais especial da minha vida.  
-Simples, mas cheio de amor ❤️
+This website was lovingly created for the most special person in my life.  
+Simple, yet full of love ❤️
 
-## 💖 Sobre o Projeto
+## 💖 About the Project
 
-Uma pequena surpresa digital para comemorar o nosso amor.  
-O site exibe mensagens românticas conforme você clica em um botão mágico, tudo isso com um fundo animado de corações flutuando.  
-Feito para dizer, de forma simples: **eu te amo**.
+A small digital surprise to celebrate our love.  
+The site displays romantic messages as you click a magical button, all with a background of floating hearts.  
+Made to say, in the simplest way: **I love you**.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- 💜 Fundo animado com corações
-- 💬 Mensagens românticas exibidas com cada clique
-- 🎁 Um botão encantado para descobrir declarações de amor
-- 🌐 Totalmente responsivo
+- 💜 Animated heart background  
+- 💬 Romantic messages displayed with each click  
+- 🎁 A magical button to reveal love declarations  
+- 🌐 Fully responsive design
 
-## 💻 Tecnologias utilizadas
+## 💻 Technologies Used
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - JavaScript
 
-## 🚀 Como visualizar
+## 🚀 View Online
 
-Você pode acessar o site clicando no link abaixo:
+You can view the website here:  
+🔗 **[Click here to see the surprise](https://lailamaciel.github.io/site-namorada)**  
 
-🔗 **[Clique aqui para ver a surpresa](https://lailamaciel.github.io/site-namorada)**  
 ---
 
-Feito com 💘 por uma programadora apaixonada.
-
+Made with 💘 by a passionate developer.
